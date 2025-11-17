@@ -1,0 +1,21 @@
+{
+  "name": "amz",
+  "displayName": "Aurared",
+  "description": "theme just for fun. feel free to use :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurared",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurared-color-theme.json"
+      }
+    ]
+  }
+}
