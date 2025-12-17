@@ -21,7 +21,7 @@
 
 		// Status Bar Colors
 		"statusBar.background": "#B62324",
-		"statusBar.foreground": "#8B949E",
+		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#473b3b",
 		"statusBar.debuggingBackground": "#4e1d8b",
 
