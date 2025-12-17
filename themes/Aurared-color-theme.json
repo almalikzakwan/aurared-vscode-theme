@@ -17,10 +17,10 @@
 		"sideBarTitle.foreground": "#E6EDF3",
 		
 		// Status Bar Colors
-		"statusBar.background": "#4e1d8b",
+		"statusBar.background": "#B62324",
 		"statusBar.foreground": "#8B949E",
-		"statusBar.noFolderBackground": "#2e2e2e",
-		"statusBar.debuggingBackground": "#B62324",
+		"statusBar.noFolderBackground": "#473b3b",
+		"statusBar.debuggingBackground": "#4e1d8b",
 
 		// Panel & Terminal Colors
 		"panel.background": "#000000",
