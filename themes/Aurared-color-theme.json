@@ -19,7 +19,7 @@
 		// Status Bar Colors
 		"statusBar.background": "#4e1d8b",
 		"statusBar.foreground": "#8B949E",
-		"statusBar.noFolderBackground": "#240d40",
+		"statusBar.noFolderBackground": "#2e2e2e",
 		"statusBar.debuggingBackground": "#B62324",
 
 		// Panel & Terminal Colors
