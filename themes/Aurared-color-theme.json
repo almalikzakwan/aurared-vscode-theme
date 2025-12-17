@@ -15,7 +15,10 @@
 		"sideBar.foreground": "#C9D1D9",
 		"sideBarSectionHeader.background": "#181717",
 		"sideBarTitle.foreground": "#E6EDF3",
+		"sideBar.border": "#B62324",
 		
+		"editorGroup.border": "#cc00ff",
+
 		// Status Bar Colors
 		"statusBar.background": "#B62324",
 		"statusBar.foreground": "#8B949E",
@@ -24,7 +27,7 @@
 
 		// Panel & Terminal Colors
 		"panel.background": "#000000",
-		"panel.border": "#0077ff",
+		"panel.border": "#B62324",
 		"terminal.background": "#000000",
 		"terminal.foreground": "#E6EDF3",
 		"terminalCursor.foreground": "#58A6FF",
@@ -55,7 +58,7 @@
 		"menu.selectionForeground": "#FFFFFF",
 
 		//title colors
-		"titleBar.activeBackground": "#000000",
+		"titleBar.activeBackground": "#B62324",
         "titleBar.activeForeground": "#FFFFFF",
         "titleBar.inactiveBackground": "#2D2D2D",
         "titleBar.inactiveForeground": "#CCCCCC"
