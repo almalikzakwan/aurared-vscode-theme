@@ -1,7 +1,6 @@
 {
 	"name": "Aurared",
 	"colors": {
-		// Editor Base Colors
 		"editor.background": "#000b03",
 		"editor.foreground": "#E6EDF3",
 		"editor.lineHighlightBackground": "#161B22",
@@ -10,7 +9,6 @@
 		"editorCursor.foreground": "#58A6FF",
 		"editorWhitespace.foreground": "#3B3F4B",
 
-		// Sidebar Colors
 		"sideBar.background": "#060004",
 		"sideBar.foreground": "#C9D1D9",
 		"sideBarSectionHeader.background": "#181717",
@@ -19,20 +17,17 @@
 		
 		"editorGroup.border": "#cc00ff",
 
-		// Status Bar Colors
 		"statusBar.background": "#B62324",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#473b3b",
 		"statusBar.debuggingBackground": "#4e1d8b",
 
-		// Panel & Terminal Colors
 		"panel.background": "#000000",
 		"panel.border": "#B62324",
 		"terminal.background": "#000000",
 		"terminal.foreground": "#E6EDF3",
 		"terminalCursor.foreground": "#58A6FF",
 
-		// Widget Colors
 		"editorHoverWidget.background": "#00110b",
 		"editorHoverWidget.border": "#0077ff",
 		"editorSuggestWidget.background": "#161B22",
@@ -41,23 +36,19 @@
 		"peekViewEditor.background": "#0E121A",
 		"peekView.border": "#0077ff",
 
-		// Scrollbar Colors
 		"scrollbarSlider.background": "#00928687",
 		"scrollbarSlider.hoverBackground": "#00ffea87",
 		"scrollbarSlider.activeBackground": "#ff00004d",
 
-		// Notification colors
 		"notificationCenterHeader.background": "#0E121A",
 		"notifications.background": "#161B22",
 		"notifications.foreground": "#E6EDF3",
 
-		// Menu colors
 		"menu.background": "#0D1117",
 		"menu.foreground": "#E6EDF3",
 		"menu.selectionBackground": "#264F78",
 		"menu.selectionForeground": "#FFFFFF",
 
-		//title colors
 		"titleBar.activeBackground": "#B62324",
         "titleBar.activeForeground": "#FFFFFF",
         "titleBar.inactiveBackground": "#2D2D2D",
